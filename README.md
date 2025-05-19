@@ -1,2 +1,2 @@
-# pagima-musica
+# pagina-musica
 Tienda de musica
